@@ -2,6 +2,8 @@
 # CMPS 3350
 # lab5 
 # This script will display a menu for the user to choose wich action they want
+# STILL IN PROGRESS!!
+
 # import functions
 from PIL import Image
 from crop import crop_image
