@@ -10,4 +10,4 @@
   Other features included is resizing the image through the ui of "Figure"
 
   In order to run the demo through odin, the following step must be taken: 
-  * Enable X11 forwarding by using " ssh -Y userinfo@odin.cs.csub.edu" when accessign odin
+  * Enable X11 forwarding by using " ssh -Y userinfo@odin.cs.csub.edu" when logging into odin
